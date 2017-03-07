@@ -1,0 +1,28 @@
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe.config
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\bin\Debug\Book Club Points.pdb
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csprojResolveAssemblyReference.cache
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\MainWindow.g.cs
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\App.g.cs
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points_MarkupCompile.cache
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points_MarkupCompile.lref
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\MainWindow.baml
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points.g.resources
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book_Club_Points.Properties.Resources.resources
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.GenerateResource.Cache
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points.exe
+G:\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points.pdb
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe.config
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points.exe
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points.pdb
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\bin\Debug\Book Club Points.pdb
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csprojResolveAssemblyReference.cache
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\MainWindow.g.cs
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\App.g.cs
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points_MarkupCompile.cache
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points_MarkupCompile.lref
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\MainWindow.baml
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points.g.resources
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book_Club_Points.Properties.Resources.resources
+C:\Users\oomotayobenson6276\Desktop\C# practice exercises\Week 3 C# assignments\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.GenerateResource.Cache
